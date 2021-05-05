@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+    font-size: 36px;
+    text-transform: uppercase;
+}
+strong{
+    color: crimson;
+    font-style: italic;
+}
+p{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: beige;
+}
+h3{
+    color: blue;
+    text-align: left;
+    font-size:20;
+    text-decoration: underline;
+}
+#p{
+    text-align: justify;
+    background-color: rgb(230, 227, 203);
+    border: 1px solid rgb(148, 129, 116);
+    border-radius: 5px;
+}
